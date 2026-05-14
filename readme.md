@@ -4,7 +4,6 @@
 [![Oracle](https://img.shields.io/badge/Oracle-DB-red)](https://www.oracle.com/database/)
 [![AES-GCM](https://img.shields.io/badge/Encryption-AES--GCM-green)](https://en.wikipedia.org/wiki/Galois/Counter_Mode)
 [![TOTP 2FA](https://img.shields.io/badge/2FA-TOTP-orange)](https://en.wikipedia.org/wiki/Time-based_One-time_Password)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 **POLYU COMP3334 Group Project**  
 一個**安全的檔案共享系統**，具備使用者註冊/登入、TOTP 雙重驗證、AES-GCM 檔案加密、檔案上傳/下載/分享/刪除、系統日誌及管理員功能。
@@ -15,7 +14,7 @@
 
 **本專案純粹用於學習與課程用途**。
 
-- 此專案是 **POLYU COMP3334 Group 89** 的課程作業，主要目的是展示電腦系統安全技術的應用（密碼雜湊、TOTP 2FA、檔案加密、資料庫安全等）。
+- 此專案是 **POLYU COMP3334 (2025)** 的課程作業，主要目的是展示電腦系統安全技術的應用（密碼雜湊、TOTP 2FA、檔案加密、資料庫安全等）。
 - **嚴禁商業使用**：本專案**不得**用於任何商業活動、產品開發或生產環境。
 - **僅供參考與教育**：所有程式碼、資料與報告僅供個人學習、測試與參考之用。
 - **無任何保證**：作者不對使用本專案所產生的任何輸出、系統異常或後果承擔任何責任。
@@ -45,10 +44,6 @@ IDE: VsCode (Visual Studio Code)
 Java Versison: JDK17  
 Lib:ojdbc8  
 Encryption_Key:encryption_key.key  
-  
-*you can run on COMP LAB PC to connect the Oracle DB*  
-https://intranet.comp.polyu.edu.hk/TechServices/TechnicalTips/881  
-https://puuds.polyu.edu.hk/uds/page/services  
   
 #Run .java
 1. open your VsCode  
