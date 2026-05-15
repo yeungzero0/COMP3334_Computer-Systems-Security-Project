@@ -32,11 +32,14 @@
 - **客戶端-伺服器架構**：Socket 通訊 + Oracle 資料庫後端
 - **安全性設計**：防止 SQL Injection、檔案加密、TOTP 防重放攻擊等
 
+## System Design
+
+![image](https://github.com/yeungzero0/COMP3334_Computer-Systems-Security-Project/blob/main/SystemsSecurity_FileSharingSystem2025_Timg.png)
+
 ---
 
 ## Demo
 https://youtu.be/b-zQLcVsL_U
-
 ---
 ## Setup  
 #Running PC: COMP Depatyment’s LAB PC  
